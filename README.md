@@ -17,4 +17,5 @@ The Walmart Sales Dashboard provides a comprehensive view of sales performance, 
      3. Small Business: Around 2,000 orders
 8. **Sales and Profit Trends:**
 Line chart tracking monthly sales and profit percentage from January 2012 to December 2013.
+
 ![Walmart Dashboard (Assignment)](https://github.com/RamyaPravallika18/Walmart_sales_Dashboard/assets/107994772/736ca735-a95f-47c2-a9df-1345a1a77c25)
