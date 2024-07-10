@@ -1,4 +1,5 @@
 #Walmart Sales Dashboard
+
 ##Overview
 The Walmart Sales Dashboard provides a comprehensive view of sales performance, profit margins, and customer segments. It visualizes key metrics and trends to help stakeholders make informed business decisions.
 
